@@ -13,9 +13,9 @@ Hive: https://github.com/apache/hive			Release 2.3.5
 
 *-jira-bugs.zip: a project's bug records in the issue tracking system, JIRA.
 
-*_BC_##.csv: each file lists the bug churn of each file by examining the revision history coverd by an evolution window. 
+*_BC_##.csv: each file lists the bug churn of each file by examining the revision history covered by an evolution window. 
 
-*-hdp_##.dsm: the H-DSM derived form the revision history coverd by an evolution window. 
+*-hdp_##.dsm: the H-DSM derived form the revision history covered by an evolution window. 
 
 .xlsx: the results of each research question.
 
